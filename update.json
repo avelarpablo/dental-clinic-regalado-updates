@@ -1,6 +1,6 @@
 {
   "channel": "stable",
-  "version": "1.2.2",
-  "appImage": "ghcr.io/avelarpablo/dental-clinic-app:1.2.2",
-  "opsImage": "ghcr.io/avelarpablo/dental-clinic-ops:1.2.2"
+  "version": "1.3.0",
+  "appImage": "ghcr.io/avelarpablo/dental-clinic-app:1.3.0",
+  "opsImage": "ghcr.io/avelarpablo/dental-clinic-ops:1.3.0"
 }
