@@ -3,6 +3,6 @@
   "version": "1.5.1",
   "appImage": "ghcr.io/avelarpablo/dental-clinic-app:1.5.1",
   "opsImage": "ghcr.io/avelarpablo/dental-clinic-ops:1.5.1",
-  "releasedAt": "2026-08-08T00:34:40Z",
-  "releaseNotes": "https://github.com/avelarpablo/dental-clinic-regalado/releases/tag/web-v1.5.1"
+  "releasedAt": "2026-08-08T01:27:06Z",
+  "releaseNotes": "### Novedades\n- Ahora la aplicación puede actualizarse sola: cuando haya una nueva versión,\n  verás un aviso con el resumen de cambios y un botón para actualizar.\n- Al instalar por primera vez, la pantalla de configuración es más clara y\n  puedes cancelar la instalación si lo necesitas.\n- Si una instalación falla, se muestra un mensaje claro y el detalle técnico\n  se puede copiar para enviárselo al soporte.\n\n### Correcciones\n- La verificación de actualizaciones de la aplicación ahora consulta el origen\n  correcto (antes podía no encontrar nuevas versiones).\n- El progreso de la actualización refleja los pasos reales del proceso."
 }
