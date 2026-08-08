@@ -1,6 +1,8 @@
 {
   "channel": "stable",
-  "version": "1.5.0",
-  "appImage": "ghcr.io/avelarpablo/dental-clinic-app:1.5.0",
-  "opsImage": "ghcr.io/avelarpablo/dental-clinic-ops:1.5.0"
+  "version": "1.5.1",
+  "appImage": "ghcr.io/avelarpablo/dental-clinic-app:1.5.1",
+  "opsImage": "ghcr.io/avelarpablo/dental-clinic-ops:1.5.1",
+  "releasedAt": "2026-08-08T00:34:40Z",
+  "releaseNotes": "https://github.com/avelarpablo/dental-clinic-regalado/releases/tag/web-v1.5.1"
 }
