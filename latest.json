@@ -1,6 +1,6 @@
 {
   "version": "1.6.1",
-  "notes": "### Novedades\r\n- Ahora puedes recuperar el acceso de administrador desde la aplicaci�n de\r\n  bandeja. Si la aplicaci�n qued� instalada pero sin ninguna cuenta (por\r\n  ejemplo, porque la instalaci�n fall� antes de crearla), puedes crear una\r\n  cuenta de administrador desde \"Recuperar acceso de administrador\" sin volver\r\n  a instalar ni perder tus datos.",
+  "notes": "- Ahora puedes recuperar el acceso de administrador desde la aplicación de\n  bandeja. Si la aplicación quedó instalada pero sin ninguna cuenta (por\n  ejemplo, porque la instalación falló antes de crearla), puedes crear una\n  cuenta de administrador desde \"Recuperar acceso de administrador\" sin volver\n  a instalar ni perder tus datos.",
   "pub_date": "2026-08-08T15:01:09.351Z",
   "platforms": {
     "darwin-aarch64": {
