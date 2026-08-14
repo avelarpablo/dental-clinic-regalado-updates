@@ -1,27 +1,27 @@
 {
-  "version": "1.0.0",
-  "notes": "Consulta el registro de cambios: https://github.com/avelarpablo/dental-clinic-regalado/blob/local-v1.0.0/CHANGELOG.md",
-  "pub_date": "2026-08-14T17:59:03.507Z",
+  "version": "1.0.1",
+  "notes": "- \"Catálogos\" y \"Respaldos\" ahora están en un nuevo grupo \"Gestión\" del menú\n  lateral, así los tienes siempre a la vista sin entrar a Configuración.\n- La aplicación de bandeja tiene una nueva pestaña \"Configuración\" que reúne el\n  inicio automático y el acceso móvil. La pestaña \"General\" queda más despejada,\n  con el estado y las actualizaciones.",
+  "pub_date": "2026-08-14T20:08:01.325Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa3orWVVXZ0R0dWwzRTh1VHp0aFlsYXEvTnlZQmJ2S3FJS2F0dkZJeWZTMUJuSHVWTXJSakxsNGppUXR6ZjZSSFp5TFNjTkxVbDJXeCtLblVZK3c1OFl3VXlOZXc5V3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzI5NjI2CWZpbGU6Q2zDrW5pY2EgRGVudGFsIFJlZ2FsYWRvLmFwcC50YXIuZ3oKczJpeDJuSkhMQXFRR0lGZ2ZqNTJaa0JKSS93dFBuazFkOW5QcnFDK2xWMzRidzByNlQzbklOUkl0d3lDSlQxMi9yMUhWQml3bmhEZldwMzdQekh0RGc9PQo=",
-      "url": "https://github.com/avelarpablo/dental-clinic-regalado/releases/download/local-v1.0.0/Clinica.Dental.Regalado_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa3orWVVXZ0R0dW50aThpOW51V21acWNiR3JUNFROZ214V0hpbm9MQXBxRWZmOXJ2YnRrY1k5NXZQbHMzbC9WS3J6K0U0L1prTmVwMjlaVXdQa1J2aGhnNWhKSTduV2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM3MjUxCWZpbGU6Q2zDrW5pY2EgRGVudGFsIFJlZ2FsYWRvLmFwcC50YXIuZ3oKR3FFNGdVTlZqVlpJek5GMWJ1L3Q2Z3IxNUR4WWc1QzZqUGZTNXE0TnNubFJEYzIwa3JGT2VKVW1laHJpQXU2cEdBdmxsbytQNzBzRWNJaEpSMzJaQ0E9PQo=",
+      "url": "https://github.com/avelarpablo/dental-clinic-regalado/releases/download/local-v1.0.1/Clinica.Dental.Regalado_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa3orWVVXZ0R0dWwzRTh1VHp0aFlsYXEvTnlZQmJ2S3FJS2F0dkZJeWZTMUJuSHVWTXJSakxsNGppUXR6ZjZSSFp5TFNjTkxVbDJXeCtLblVZK3c1OFl3VXlOZXc5V3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzI5NjI2CWZpbGU6Q2zDrW5pY2EgRGVudGFsIFJlZ2FsYWRvLmFwcC50YXIuZ3oKczJpeDJuSkhMQXFRR0lGZ2ZqNTJaa0JKSS93dFBuazFkOW5QcnFDK2xWMzRidzByNlQzbklOUkl0d3lDSlQxMi9yMUhWQml3bmhEZldwMzdQekh0RGc9PQo=",
-      "url": "https://github.com/avelarpablo/dental-clinic-regalado/releases/download/local-v1.0.0/Clinica.Dental.Regalado_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa3orWVVXZ0R0dW50aThpOW51V21acWNiR3JUNFROZ214V0hpbm9MQXBxRWZmOXJ2YnRrY1k5NXZQbHMzbC9WS3J6K0U0L1prTmVwMjlaVXdQa1J2aGhnNWhKSTduV2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM3MjUxCWZpbGU6Q2zDrW5pY2EgRGVudGFsIFJlZ2FsYWRvLmFwcC50YXIuZ3oKR3FFNGdVTlZqVlpJek5GMWJ1L3Q2Z3IxNUR4WWc1QzZqUGZTNXE0TnNubFJEYzIwa3JGT2VKVW1laHJpQXU2cEdBdmxsbytQNzBzRWNJaEpSMzJaQ0E9PQo=",
+      "url": "https://github.com/avelarpablo/dental-clinic-regalado/releases/download/local-v1.0.1/Clinica.Dental.Regalado_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa3orWVVXZ0R0dXNpRU5Lb2lNblNveHZ0S0JsOW5jeWtqV01GbXpES2pzU3JTUWNUbHJuVkV4NGxmOEFjZmk4S0IrSnE3ZHFFa1liRG55enlJVlZNUE1vWkpCcnQ1a2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzMwMzM4CWZpbGU6Q2zDrW5pY2EgRGVudGFsIFJlZ2FsYWRvXzEuMC4wX3g2NF9lbi1VUy5tc2kuemlwCkU5bzhDcXZ6TkhKRG14SEZnWDBEeVQveGtSN0VOVHBnRTNmU2VvZVRXamFySVJtM25TMkptTktJdWZkUEVScnZvN2Q5eTJadEJ1RkhHRTI5blMxSEFBPT0K",
-      "url": "https://github.com/avelarpablo/dental-clinic-regalado/releases/download/local-v1.0.0/Clinica.Dental.Regalado_1.0.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa3orWVVXZ0R0dWwxOUlGcHVGS3lyVjh6VFlzZnhzRFhqNzU5bWQ1cUZIY0dIQitNRzhOKzNMRXBJVzc3OVpZQm9Cc3JZQUdWZ2s2aEJEM3RGS1lsYjB2QVcyM21yaHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM4MDczCWZpbGU6Q2zDrW5pY2EgRGVudGFsIFJlZ2FsYWRvXzEuMC4xX3g2NF9lbi1VUy5tc2kuemlwCnhTY3BKQm5NYkphZVVYLzA3eWRkUWQxc0IvYXRxVlpUZ09GZE54YytYU1Zqbld3WkVTdkpFQXJEUHhzVGRKYjZCM3hIQjZJN284OURnQmZ4Y2h0akF3PT0K",
+      "url": "https://github.com/avelarpablo/dental-clinic-regalado/releases/download/local-v1.0.1/Clinica.Dental.Regalado_1.0.1_x64_en-US.msi.zip"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa3orWVVXZ0R0dW5pZmdEa3RXOTlncExXcnJRck1KVk1FYklwcUlTS1dTcXRMQTl2Y0NaTVJUek9ORGZyNEgwTnNpTTVPNGdxWXNab2hqK3hiQjBQZTZTU28xdGtXb1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzMwMzM4CWZpbGU6Q2zDrW5pY2EgRGVudGFsIFJlZ2FsYWRvXzEuMC4wX3g2NF9lbi1VUy5tc2kKVGNNUnUwazdsQmUrRjF0Y2liMVpkMFFtYXQzWlNaemlnUVZudmxpeXRnazVLZXJTdTJKcHhRUlI5c1RYc2k1WHIzWGxCUG1MN2FnSDVKU0VrWTVxQmc9PQo=",
-      "url": "https://github.com/avelarpablo/dental-clinic-regalado/releases/download/local-v1.0.0/Clinica.Dental.Regalado_1.0.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa3orWVVXZ0R0dXF1SWdURERWVG45TnB3QzYrNWhvZytLRmx3Q3YzMU9aOXBPUm5aOGh4V3duYUZVSFBYcHM3aUkvbUlvNjZoT1h2WjdKZi9NaXU4RE82THhPNzBtekE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM4MDczCWZpbGU6Q2zDrW5pY2EgRGVudGFsIFJlZ2FsYWRvXzEuMC4xX3g2NF9lbi1VUy5tc2kKZEJrTVErVXUzdlBzOFcxUFRkSkpKVS9HTVFhcXlQNU5BVEtqdUR5SFI0WHczUHMwRGp6ZlhYNzhGUzNjSVJoWEZsbjYzMzNHc3BiVTdOY0VmQmV4QWc9PQo=",
+      "url": "https://github.com/avelarpablo/dental-clinic-regalado/releases/download/local-v1.0.1/Clinica.Dental.Regalado_1.0.1_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa3orWVVXZ0R0dWd3aTFMZEVDOEp2TUcvdmdRV1JNeWlCUVYxUFhxMUFPNG5SQk1pSWszQTZOSkp3eEY1TFZ4NlNqTVBhY252REM2SE1NZDBsRW9ucVNRcERZaHdZblFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzMwMzM4CWZpbGU6Q2zDrW5pY2EgRGVudGFsIFJlZ2FsYWRvXzEuMC4wX3g2NC1zZXR1cC5leGUKYmdtY2pDZDcrOGJZNGRMYWZQRmVkQUxhOXlna282K0Y3Qi9ENStIWmRaVkhaSnZVeDRiM1lZbWhXUm9TSDR4eEVsSzRwYkFweUk0UDJrdFpEazZrQmc9PQo=",
-      "url": "https://github.com/avelarpablo/dental-clinic-regalado/releases/download/local-v1.0.0/Clinica.Dental.Regalado_1.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa3orWVVXZ0R0dWxhMnA5TFo1MmZxS2U2TWVGWGJLQ1FWMFNTTlAzMURzK2ZENU1oSXVUVnJ1cTc4TW5HQUIwL0NrM01IUjVPd3JzTFo1MC9QYXYyREpQSHJvVklUVUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzM4MDczCWZpbGU6Q2zDrW5pY2EgRGVudGFsIFJlZ2FsYWRvXzEuMC4xX3g2NC1zZXR1cC5leGUKSDN2QVFSZTUvU25mR2t1SWRjMWFtalJ5Wkc1Z1V0NTY1d2pWZlFMT2pxQUREdzlrYXNGQjYwem5SRTZSRXB0NE5HN3UwaUFLL3JSSEdQVmxXUFlhQkE9PQo=",
+      "url": "https://github.com/avelarpablo/dental-clinic-regalado/releases/download/local-v1.0.1/Clinica.Dental.Regalado_1.0.1_x64-setup.exe"
     }
   }
 }
