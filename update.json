@@ -1,8 +1,8 @@
 {
   "channel": "stable",
-  "version": "1.5.2",
-  "appImage": "ghcr.io/avelarpablo/dental-clinic-app:1.5.2",
-  "opsImage": "ghcr.io/avelarpablo/dental-clinic-ops:1.5.2",
-  "releasedAt": "2026-08-08T11:57:16Z",
-  "releaseNotes": "### Correcciones\n- La instalación es más sencilla y robusta: ya no necesita configurar el\n  archivo del sistema ni pedir permiso de administrador. La aplicación se abre\n  en http://localhost:8080.\n- Cuando la instalación falla, ahora se muestra el mensaje real del error (antes\n  aparecía solo un código genérico), para poder diagnosticarlo más fácil.\n- Se mejoró la descarga de imágenes durante la instalación para que funcione de\n  forma fiable al abrir la aplicación desde su ícono.\n- Si una instalación no se completa, ya no queda marcada como \"instalada\": se\n  limpia automáticamente para poder reintentar desde cero.\n- Al abrir la aplicación, ahora siempre se muestra su ventana (antes podía\n  quedar solo en la barra sin abrirse)."
+  "version": "1.0.0",
+  "appImage": "ghcr.io/avelarpablo/dental-clinic-app:1.0.0",
+  "opsImage": "ghcr.io/avelarpablo/dental-clinic-ops:1.0.0",
+  "releasedAt": "2026-08-14T17:47:47Z",
+  "releaseNotes": "https://github.com/avelarpablo/dental-clinic-regalado/releases/tag/web-v1.0.0"
 }
