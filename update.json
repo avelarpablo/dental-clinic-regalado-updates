@@ -1,8 +1,8 @@
 {
   "channel": "stable",
-  "version": "1.0.0",
-  "appImage": "ghcr.io/avelarpablo/dental-clinic-app:1.0.0",
-  "opsImage": "ghcr.io/avelarpablo/dental-clinic-ops:1.0.0",
-  "releasedAt": "2026-08-14T17:47:47Z",
-  "releaseNotes": "https://github.com/avelarpablo/dental-clinic-regalado/releases/tag/web-v1.0.0"
+  "version": "1.0.1",
+  "appImage": "ghcr.io/avelarpablo/dental-clinic-app:1.0.1",
+  "opsImage": "ghcr.io/avelarpablo/dental-clinic-ops:1.0.1",
+  "releasedAt": "2026-08-14T19:55:48Z",
+  "releaseNotes": "### Novedades\n- \"Catálogos\" y \"Respaldos\" ahora están en un nuevo grupo \"Gestión\" del menú\n  lateral, así los tienes siempre a la vista sin entrar a Configuración.\n- La aplicación de bandeja tiene una nueva pestaña \"Configuración\" que reúne el\n  inicio automático y el acceso móvil. La pestaña \"General\" queda más despejada,\n  con el estado y las actualizaciones."
 }
