@@ -1,8 +1,8 @@
 {
   "channel": "stable",
-  "version": "1.0.1",
-  "appImage": "ghcr.io/avelarpablo/dental-clinic-app:1.0.1",
-  "opsImage": "ghcr.io/avelarpablo/dental-clinic-ops:1.0.1",
-  "releasedAt": "2026-08-14T19:55:48Z",
-  "releaseNotes": "### Novedades\n- \"Catálogos\" y \"Respaldos\" ahora están en un nuevo grupo \"Gestión\" del menú\n  lateral, así los tienes siempre a la vista sin entrar a Configuración.\n- La aplicación de bandeja tiene una nueva pestaña \"Configuración\" que reúne el\n  inicio automático y el acceso móvil. La pestaña \"General\" queda más despejada,\n  con el estado y las actualizaciones."
+  "version": "1.0.2",
+  "appImage": "ghcr.io/avelarpablo/dental-clinic-app:1.0.2",
+  "opsImage": "ghcr.io/avelarpablo/dental-clinic-ops:1.0.2",
+  "releasedAt": "2026-08-17T02:31:46Z",
+  "releaseNotes": "### Correcciones\n- El acceso móvil (LAN) ahora detecta correctamente la dirección de red en\n  Windows. Antes mostraba \"No se pudo detectar la dirección IP de la red local\"\n  y no permitía activarlo.\n\n### Novedades\n- \"Códigos de recuperación\" se movió al grupo \"Gestión\" del menú lateral, junto\n  a \"Catálogos\" y \"Respaldos\", en lugar de estar en un grupo aparte.\n- En la aplicación de bandeja, \"Recuperar acceso de administrador\" pasó a la\n  pestaña \"Configuración\", dejando la pestaña \"General\" centrada en el estado y\n  las actualizaciones."
 }
